@@ -1,7 +1,6 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-
-import '../../../utils/routes.dart';
+import 'package:invoice_generator/utils/routes.dart';
 
 AppBar appBar({required BuildContext context}) {
   return AppBar(

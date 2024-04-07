@@ -27,9 +27,11 @@ class _CartPageState extends State<CartPage> {
                 padding: const EdgeInsets.only(bottom: 10),
                 child: Container(
                   height: size.height * 0.15,
-                  color: const Color(0xff7E6363),
                   padding: const EdgeInsets.all(7),
-                  // color: Colors.grey,
+                  decoration: BoxDecoration(
+                    color: const Color(0xff7E6363),
+                    borderRadius: BorderRadius.circular(20),
+                  ),
                   child: Row(
                     children: [
                       CircleAvatar(

@@ -2,12 +2,11 @@ import 'dart:math';
 
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
+import 'package:invoice_generator/utils/appbar.dart';
 import 'package:invoice_generator/utils/routes.dart';
 import 'package:pdf/pdf.dart';
 import 'package:pdf/widgets.dart' as pw;
 import 'package:printing/printing.dart';
-
-import '../../utils/appbar.dart';
 
 class PdfPage extends StatefulWidget {
   const PdfPage({super.key});
