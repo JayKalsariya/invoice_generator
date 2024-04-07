@@ -40,7 +40,7 @@ With these features, CHOCO APP offers a user-friendly and efficient solution for
 ## `View :`
 
 <img src = "https://github.com/JayKalsariya/invoice_generator/assets/141019761/fd461d2b-f8c6-4cef-ab7a-66bf03250422" width = "250">
-<img src = "https://github.com/JayKalsariya/invoice_generator/assets/141019761/e9336c3a-e915-4045-96b3-83451c3ecc07" width = "250">
+<img src = "https://github.com/JayKalsariya/invoice_generator/assets/141019761/f07a2981-b246-49cc-b5c0-43ba23ea8d0d" width = "250">
 <img src = "https://github.com/JayKalsariya/invoice_generator/assets/141019761/e43a6930-b0e9-4f86-ac41-69444ee49099" width = "250">
 <img src = "https://github.com/JayKalsariya/invoice_generator/assets/141019761/37187e52-f014-4aa7-b733-cb99935631df" width = "250">
 <img src = "https://github.com/JayKalsariya/invoice_generator/assets/141019761/8fa5ce68-dc02-4077-9721-dd2d2f8acad2" width = "250">
@@ -49,13 +49,3 @@ With these features, CHOCO APP offers a user-friendly and efficient solution for
 <img src = "https://github.com/JayKalsariya/invoice_generator/assets/141019761/3da89b98-4787-4619-b50f-132660e867a3" width = "250">
 <img src = "https://github.com/JayKalsariya/invoice_generator/assets/141019761/6a6cbf19-94c2-4f64-b868-0dc76f228adc" width = "250">
 <img src = "https://github.com/JayKalsariya/invoice_generator/assets/141019761/f786ba19-4476-4927-b732-f88eff596317" width = "250">
-
-## `Video :`
-
-https://github.com/JayKalsariya/invoice_generator/assets/141019761/0d974933-d3fc-47be-8341-eacc059c6d4c
-
-
-
-
-
-
